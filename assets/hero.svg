@@ -109,10 +109,10 @@
 
   <!-- availability pill -->
   <g>
-    <rect x="505" y="52" width="270" height="32" rx="16" fill="#22C55E" fill-opacity="0.07" stroke="#22C55E" stroke-opacity="0.35"/>
-    <circle cx="524" cy="68" r="8" fill="#4ADE80" opacity="0.18" class="pulse"/>
-    <circle cx="524" cy="68" r="4" fill="#4ADE80"/>
-    <text x="540" y="72.5" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="2.4" fill="#86EFAC">AVAILABLE FOR INTERNSHIPS</text>
+    <rect x="495" y="50" width="290" height="34" rx="17" fill="#22C55E" fill-opacity="0.07" stroke="#22C55E" stroke-opacity="0.35"/>
+    <circle cx="516" cy="67" r="8" fill="#4ADE80" opacity="0.18" class="pulse"/>
+    <circle cx="516" cy="67" r="4" fill="#4ADE80"/>
+    <text x="532" y="72" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" letter-spacing="2.4" fill="#86EFAC">AVAILABLE FOR INTERNSHIPS</text>
   </g>
 
   <!-- name with extruded 3D layers -->
@@ -123,20 +123,20 @@
     <text x="640" y="196" fill="url(#nameGrad)" filter="url(#textGlow)">YASHASVI ARYA</text>
   </g>
 
-  <text x="640" y="238" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="7" fill="#94A3B8">MERN STACK DEVELOPER</text>
-  <text x="640" y="270" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#CBD5E1" fill-opacity="0.75">Building responsive, full-stack web applications with the MERN stack.</text>
+  <text x="640" y="238" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="7" fill="#94A3B8">MERN STACK DEVELOPER</text>
+  <text x="640" y="270" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#CBD5E1" fill-opacity="0.75">Building responsive, full-stack web applications with the MERN stack.</text>
 
   <!-- tech pills -->
-  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0" text-anchor="middle">
-    <rect x="372" y="296" width="78" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
-    <text x="411" y="315.5">React</text>
-    <rect x="462" y="296" width="92" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
-    <text x="508" y="315.5">Node.js</text>
-    <rect x="566" y="296" width="96" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
-    <text x="614" y="315.5">Express</text>
-    <rect x="674" y="296" width="104" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
-    <text x="726" y="315.5">MongoDB</text>
-    <rect x="790" y="296" width="112" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
-    <text x="846" y="315.5">JavaScript</text>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0" text-anchor="middle">
+    <rect x="356" y="294" width="84" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
+    <text x="398" y="315.5">React</text>
+    <rect x="452" y="294" width="100" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
+    <text x="502" y="315.5">Node.js</text>
+    <rect x="564" y="294" width="104" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
+    <text x="616" y="315.5">Express</text>
+    <rect x="680" y="294" width="112" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
+    <text x="736" y="315.5">MongoDB</text>
+    <rect x="804" y="294" width="120" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
+    <text x="864" y="315.5">JavaScript</text>
   </g>
 </svg>
