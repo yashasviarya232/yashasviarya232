@@ -31,7 +31,7 @@ My core focus is the **MERN stack** — MongoDB, Express.js, React.js, and Node.
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,npm,vscode&theme=dark&perline=7" alt="JavaScript, HTML5, CSS3, React, Bootstrap, Node.js, Express, MongoDB, MySQL, Git, GitHub, Postman, npm, VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,npm,vscode&theme=dark&perline=14" alt="JavaScript, HTML5, CSS3, React, Bootstrap, Node.js, Express, MongoDB, MySQL, Git, GitHub, Postman, npm, VS Code" />
 </div>
 
 <br />
