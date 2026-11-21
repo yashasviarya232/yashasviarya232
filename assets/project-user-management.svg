@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" fill="none" role="img" aria-label="User Management System project card">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="880" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1124"/>
+      <stop offset="1" stop-color="#101A38"/>
+    </linearGradient>
+    <linearGradient id="cardStroke" x1="0" y1="0" x2="880" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4C1D95" stop-opacity="0.9"/>
+      <stop offset="0.55" stop-color="#1E3A8A" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#0E7490" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="32" y1="70" x2="470" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#A5F3FC"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="32" y1="0" x2="84" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="cubeTop" x1="726" y1="114" x2="814" y2="166" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <radialGradient id="cardGlow" cx="0" cy="0" r="1" gradientTransform="translate(770 150) rotate(90) scale(170 190)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="12" y="12" width="856" height="216" rx="22" fill="#070B18" opacity="0.9"/>
+  <rect x="6" y="6" width="868" height="222" rx="22" fill="#0A1024"/>
+  <rect x="0.75" y="0.75" width="878.5" height="238.5" rx="21" fill="url(#cardBg)" stroke="url(#cardStroke)" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="878.5" height="238.5" rx="21" fill="url(#cardGlow)"/>
+  <path d="M22 1.5H858" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5"/>
+
+  <circle cx="812" cy="30" r="4" fill="#F87171" fill-opacity="0.8"/>
+  <circle cx="828" cy="30" r="4" fill="#FBBF24" fill-opacity="0.8"/>
+  <circle cx="844" cy="30" r="4" fill="#34D399" fill-opacity="0.8"/>
+
+  <rect x="32" y="22" width="112" height="26" rx="13" fill="#22D3EE" fill-opacity="0.08" stroke="#22D3EE" stroke-opacity="0.35"/>
+  <text x="88" y="39.5" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8" fill="#67E8F9">FULL-STACK</text>
+
+  <text x="848" y="108" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="800" fill="#FFFFFF" fill-opacity="0.035">01</text>
+
+  <text x="32" y="92" font-family="'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" fill="url(#titleGrad)">User Management System</text>
+  <rect x="32" y="106" width="52" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#94A3B8">
+    <text x="32" y="138">A full-stack platform for managing user records with image</text>
+    <text x="32" y="160">uploads, authentication, and RESTful API integration.</text>
+  </g>
+
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#C7D2FE" text-anchor="middle">
+    <rect x="32" y="182" width="64" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.05" stroke="#818CF8" stroke-opacity="0.3"/>
+    <text x="64" y="198">React</text>
+    <rect x="104" y="182" width="76" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.05" stroke="#818CF8" stroke-opacity="0.3"/>
+    <text x="142" y="198">Node.js</text>
+    <rect x="188" y="182" width="80" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.05" stroke="#818CF8" stroke-opacity="0.3"/>
+    <text x="228" y="198">Express</text>
+    <rect x="276" y="182" width="88" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.05" stroke="#818CF8" stroke-opacity="0.3"/>
+    <text x="320" y="198">MongoDB</text>
+  </g>
+
+  <g opacity="0.95">
+    <polygon points="770,114 814,140 770,166 726,140" fill="url(#cubeTop)"/>
+    <polygon points="726,140 770,166 770,210 726,184" fill="#4338CA"/>
+    <polygon points="770,166 814,140 814,184 770,210" fill="#6D28D9"/>
+    <polygon points="770,114 814,140 770,166 726,140" fill="none" stroke="#A5F3FC" stroke-opacity="0.35"/>
+    <path d="M726 140V184M814 140V184M770 166V210" stroke="#C4B5FD" stroke-opacity="0.22"/>
+  </g>
+
+  <text x="848" y="214" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.6" fill="#22D3EE">VIEW REPOSITORY  &#8594;</text>
+</svg>

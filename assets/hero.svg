@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" fill="none" role="img" aria-label="Yashasvi Arya - MERN Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#04060F"/>
+      <stop offset="0.45" stop-color="#080D20"/>
+      <stop offset="1" stop-color="#050814"/>
+    </linearGradient>
+    <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientTransform="translate(190 70) rotate(35) scale(430 330)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientTransform="translate(1100 90) rotate(140) scale(400 300)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPink" cx="0" cy="0" r="1" gradientTransform="translate(640 470) rotate(-90) scale(430 220)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EC4899" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="300" y1="140" x2="980" y2="215" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#A5F3FC"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <linearGradient id="cubeTop" x1="74" y1="173" x2="166" y2="227" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <linearGradient id="cubeTop2" x1="1126" y1="150" x2="1194" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0ABFC"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <linearGradient id="pillStroke" x1="372" y1="296" x2="902" y2="326" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.5"/>
+      <stop offset="0.5" stop-color="#8B5CF6" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="220" y1="352" x2="1060" y2="352" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8B5CF6" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="textGlow" x="-20%" y="-40%" width="140%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="14" flood-color="#8B5CF6" flood-opacity="0.5"/>
+    </filter>
+    <filter id="cubeGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#4C1D95" flood-opacity="0.55"/>
+    </filter>
+    <style>
+      .float1 { animation: float1 8s ease-in-out infinite; }
+      .float2 { animation: float2 10s ease-in-out infinite; }
+      .float3 { animation: float3 12s ease-in-out infinite; }
+      .pulse { animation: pulse 5s ease-in-out infinite; }
+      @keyframes float1 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-16px); } }
+      @keyframes float2 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(12px); } }
+      @keyframes float3 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-9px); } }
+      @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 0.75; } }
+    </style>
+  </defs>
+
+  <rect width="1280" height="480" fill="url(#bg)"/>
+  <rect width="1280" height="480" fill="url(#glowViolet)"/>
+  <rect width="1280" height="480" fill="url(#glowCyan)"/>
+  <rect width="1280" height="480" fill="url(#glowPink)"/>
+
+  <!-- perspective floor grid -->
+  <g stroke="#4F46E5" stroke-opacity="0.16" stroke-width="1">
+    <path d="M640 352 L-40 480"/>
+    <path d="M640 352 L100 480"/>
+    <path d="M640 352 L240 480"/>
+    <path d="M640 352 L380 480"/>
+    <path d="M640 352 L520 480"/>
+    <path d="M640 352 L640 480"/>
+    <path d="M640 352 L760 480"/>
+    <path d="M640 352 L900 480"/>
+    <path d="M640 352 L1040 480"/>
+    <path d="M640 352 L1180 480"/>
+    <path d="M640 352 L1320 480"/>
+    <path d="M0 360H1280"/>
+    <path d="M0 372H1280"/>
+    <path d="M0 390H1280"/>
+    <path d="M0 414H1280"/>
+    <path d="M0 446H1280"/>
+  </g>
+  <path d="M220 352H1060" stroke="url(#horizon)" stroke-width="1.5"/>
+  <ellipse cx="640" cy="352" rx="330" ry="26" fill="#8B5CF6" fill-opacity="0.12"/>
+
+  <!-- floating isometric cubes -->
+  <g class="float1" filter="url(#cubeGlow)">
+    <polygon points="120,173 166,200 120,227 74,200" fill="url(#cubeTop)"/>
+    <polygon points="74,200 120,227 120,273 74,246" fill="#4338CA"/>
+    <polygon points="120,227 166,200 166,246 120,273" fill="#6D28D9"/>
+    <polygon points="120,173 166,200 120,227 74,200" fill="none" stroke="#A5F3FC" stroke-opacity="0.35"/>
+    <path d="M74 200V246M166 200V246M120 227V273" stroke="#C4B5FD" stroke-opacity="0.22"/>
+  </g>
+
+  <g class="float2" filter="url(#cubeGlow)" opacity="0.9">
+    <polygon points="1160,150 1194,170 1160,190 1126,170" fill="url(#cubeTop2)"/>
+    <polygon points="1126,170 1160,190 1160,224 1126,204" fill="#4338CA"/>
+    <polygon points="1160,190 1194,170 1194,204 1160,224" fill="#6D28D9"/>
+    <polygon points="1160,150 1194,170 1160,190 1126,170" fill="none" stroke="#F5D0FE" stroke-opacity="0.35"/>
+  </g>
+
+  <g class="float3" opacity="0.55">
+    <polygon points="1040,339 1062,352 1040,365 1018,352" fill="url(#cubeTop)"/>
+    <polygon points="1018,352 1040,365 1040,387 1018,374" fill="#3730A3"/>
+    <polygon points="1040,365 1062,352 1062,374 1040,387" fill="#5B21B6"/>
+  </g>
+
+  <!-- availability pill -->
+  <g>
+    <rect x="505" y="52" width="270" height="32" rx="16" fill="#22C55E" fill-opacity="0.07" stroke="#22C55E" stroke-opacity="0.35"/>
+    <circle cx="524" cy="68" r="8" fill="#4ADE80" opacity="0.18" class="pulse"/>
+    <circle cx="524" cy="68" r="4" fill="#4ADE80"/>
+    <text x="540" y="72.5" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="2.4" fill="#86EFAC">AVAILABLE FOR INTERNSHIPS</text>
+  </g>
+
+  <!-- name with extruded 3D layers -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="6" text-anchor="middle">
+    <text x="640" y="208" fill="#171238">YASHASVI ARYA</text>
+    <text x="640" y="204" fill="#1E1B4B">YASHASVI ARYA</text>
+    <text x="640" y="200" fill="#2A2263">YASHASVI ARYA</text>
+    <text x="640" y="196" fill="url(#nameGrad)" filter="url(#textGlow)">YASHASVI ARYA</text>
+  </g>
+
+  <text x="640" y="238" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="7" fill="#94A3B8">MERN STACK DEVELOPER</text>
+  <text x="640" y="270" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#CBD5E1" fill-opacity="0.75">Building responsive, full-stack web applications with the MERN stack.</text>
+
+  <!-- tech pills -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0" text-anchor="middle">
+    <rect x="372" y="296" width="78" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
+    <text x="411" y="315.5">React</text>
+    <rect x="462" y="296" width="92" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
+    <text x="508" y="315.5">Node.js</text>
+    <rect x="566" y="296" width="96" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
+    <text x="614" y="315.5">Express</text>
+    <rect x="674" y="296" width="104" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
+    <text x="726" y="315.5">MongoDB</text>
+    <rect x="790" y="296" width="112" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="url(#pillStroke)"/>
+    <text x="846" y="315.5">JavaScript</text>
+  </g>
+</svg>

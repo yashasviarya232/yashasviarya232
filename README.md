@@ -1,118 +1,84 @@
 <div align="center">
-
-# Yashasvi Arya
-
-### MERN Stack Developer
-
-Building responsive, full-stack web applications with the MERN stack.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://yashasvi-arya-portfolio-ten.vercel.app)
-[![Email](https://img.shields.io/badge/Email-yashasviarya232%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashasviarya232@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-yashasviarya232-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashasviarya232)
-![Location](https://img.shields.io/badge/Indore%2C%20Madhya%20Pradesh-India-4B8BBE?style=flat-square&logo=googlemaps&logoColor=white)
-
+  <img src="https://raw.githubusercontent.com/yashasviarya232/yashasviarya232/main/assets/hero.svg" alt="Yashasvi Arya — MERN Stack Developer" width="100%" />
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=680&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+responsive+full-stack+applications;Open+to+internships+and+entry-level+roles" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://yashasvi-arya-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:yashasviarya232@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/yashasviarya232"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/BASED%20IN-INDORE%2C%20INDIA-4B8BBE?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</div>
+
+<br />
 
 ## About Me
 
-I am a final-year **B.Tech Computer Science and Engineering** student at Swami Vivekanand College of Engineering, Indore (RGPV, Bhopal), with hands-on experience in full-stack web development.
+I am a final-year **B.Tech Computer Science and Engineering** student at Swami Vivekanand College of Engineering, Indore (RGPV, Bhopal), with hands-on experience in full-stack web development. I enjoy turning ideas into clean, responsive, and reliable web applications.
 
-I enjoy turning ideas into clean, responsive, and reliable web applications. My core focus is the **MERN stack** — MongoDB, Express.js, React.js, and Node.js — along with RESTful API design, authentication, and modern JavaScript.
+My core focus is the **MERN stack** — MongoDB, Express.js, React.js, and Node.js — along with RESTful API design, authentication, and modern JavaScript.
 
-- Currently strengthening my skills in **backend architecture, API design, and authentication**
-- Open to **internships and entry-level roles** in full-stack and frontend development
-- Comfortable collaborating on team-based projects using **Git and GitHub**
-- Based in **Indore, Madhya Pradesh, India** — open to relocation
+- 🔭 Currently strengthening my skills in **backend architecture, API design, and authentication**
+- 💼 Open to **internships and entry-level roles** in full-stack and frontend development
+- 🤝 Comfortable collaborating on team projects using **Git and GitHub**
+- 📍 Based in **Indore, Madhya Pradesh, India** — open to relocation
 
----
+<br />
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,npm,vscode&theme=dark&perline=7" alt="JavaScript, HTML5, CSS3, React, Bootstrap, Node.js, Express, MongoDB, MySQL, Git, GitHub, Postman, npm, VS Code" />
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
+<br />
 
 ## Featured Projects
 
-### User Management System
+<div align="center">
+  <a href="https://github.com/yashasviarya232/User">
+    <img src="https://raw.githubusercontent.com/yashasviarya232/yashasviarya232/main/assets/project-user-management.svg" alt="User Management System — full-stack MERN project" width="100%" />
+  </a>
+</div>
 
-A full-stack user management platform built with the MERN stack.
+<div align="center">
+  <a href="https://github.com/yashasviarya232/frontend_crud">
+    <img src="https://raw.githubusercontent.com/yashasviarya232/yashasviarya232/main/assets/project-frontend-crud.svg" alt="Frontend CRUD — responsive React project" width="100%" />
+  </a>
+</div>
 
-- Complete **CRUD** operations for user records, including image and file uploads
-- Secure **user authentication** and data management modules
-- RESTful API backend with MongoDB persistence
-- Responsive interface built with React.js
+<br />
 
-**Tech:** React.js · Node.js · Express.js · MongoDB · JavaScript
+## What I Do
 
-[View repository](https://github.com/yashasviarya232/User)
+- **Full-Stack Development** — Build end-to-end web applications with React, Node.js, Express.js, and MongoDB.
+- **REST APIs & Authentication** — Design RESTful APIs and implement secure authentication and data-management flows.
+- **Responsive Interfaces** — Create clean, mobile-first user interfaces with modern JavaScript, HTML5, CSS3, and Bootstrap.
 
-### Frontend CRUD
-
-A responsive React front-end for create, read, update, and delete workflows.
-
-- Component-based UI with clean state management
-- REST API integration for real-time data operations
-- Responsive layout for desktop and mobile
-
-**Tech:** React.js · JavaScript · CSS · Vite
-
-[View repository](https://github.com/yashasviarya232/frontend_crud)
-
----
+<br />
 
 ## Education
 
-| Degree | Institution | Year |
-| --- | --- | --- |
-| B.Tech, Computer Science & Engineering | Swami Vivekanand College of Engineering, Indore (RGPV, Bhopal) | 2023 – 2027 |
+> **B.Tech — Computer Science & Engineering**  
+> Swami Vivekanand College of Engineering, Indore (RGPV, Bhopal) · **2023 — 2027**
 
-**Relevant coursework:** Data Structures, Web Development, Database Management Systems, Object-Oriented Programming
+**Relevant coursework:** Data Structures · Web Development · Database Management Systems · Object-Oriented Programming
 
----
+<br />
 
-## GitHub Stats
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashasviarya232&show_icons=true&hide_title=true&hide_border=true&rank_icon=github" alt="Yashasvi's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasviarya232&layout=compact&hide_border=true" alt="Top languages" height="160" />
-</p>
+<div align="center">
+  <a href="https://yashasvi-arya-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:yashasviarya232@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/yashasviarya232"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
----
+<br />
 
-## Contact
-
-- **Portfolio:** [yashasvi-arya-portfolio-ten.vercel.app](https://yashasvi-arya-portfolio-ten.vercel.app)
-- **Email:** [yashasviarya232@gmail.com](mailto:yashasviarya232@gmail.com)
-- **GitHub:** [@yashasviarya232](https://github.com/yashasviarya232)
-
-<p align="center"><i>Open to internship and full-time opportunities in full-stack development.</i></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yashasviarya232/yashasviarya232/main/assets/footer.svg" alt="Let's build something great together" width="100%" />
+</div>
