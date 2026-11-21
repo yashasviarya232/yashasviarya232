@@ -10,7 +10,6 @@
   <a href="https://yashasvi-arya-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:yashasviarya232@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/yashasviarya232"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/BASED%20IN-INDORE%2C%20INDIA-4B8BBE?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
 <br />
