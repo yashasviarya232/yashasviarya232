@@ -6,6 +6,7 @@
 
 Building responsive, full-stack web applications with the MERN stack.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://yashasvi-arya-portfolio-ten.vercel.app)
 [![Email](https://img.shields.io/badge/Email-yashasviarya232%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashasviarya232@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yashasviarya232-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashasviarya232)
 ![Location](https://img.shields.io/badge/Indore%2C%20Madhya%20Pradesh-India-4B8BBE?style=flat-square&logo=googlemaps&logoColor=white)
@@ -110,6 +111,7 @@ A responsive React front-end for create, read, update, and delete workflows.
 
 ## Contact
 
+- **Portfolio:** [yashasvi-arya-portfolio-ten.vercel.app](https://yashasvi-arya-portfolio-ten.vercel.app)
 - **Email:** [yashasviarya232@gmail.com](mailto:yashasviarya232@gmail.com)
 - **GitHub:** [@yashasviarya232](https://github.com/yashasviarya232)
 
